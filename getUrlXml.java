@@ -32,7 +32,7 @@ public class getUrlXml extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		String AccNbr="804106273749";
+		String AccNbr="804106273749";//¿Í»§ID
 		String SearchMonth="2017";
 		String AcctMonth="";
 		String ListFlag="";
